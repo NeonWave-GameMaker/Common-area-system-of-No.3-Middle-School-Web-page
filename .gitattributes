@@ -1,0 +1,4 @@
+三中公区系统.pck filter=lfs diff=lfs merge=lfs -text
+三中公区系统.wasm filter=lfs diff=lfs merge=lfs -text
+*.wasm filter=lfs diff=lfs merge=lfs -text
+*.pck filter=lfs diff=lfs merge=lfs -text
